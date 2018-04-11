@@ -2,7 +2,7 @@
 iOS学习资源收集与分享 - QQ群:82546752
 
 ### 点击跳转
-- [技术博客](#technical_blog)
+- <a href="#technical_blog">技术博客</a>
 - [团队博客](#team_blog)
 - [UI设计](#UI_design)
 - [资讯社区](#information_community)
