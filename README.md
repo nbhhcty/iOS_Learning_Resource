@@ -2,12 +2,12 @@
 iOS学习资源收集与分享 - QQ群:82546752
 
 ### 点击跳转
-- <a href="#technical_blog">技术博客</a>
-- <a href="#team_blog">团队博客</a>
-- <a href="#UI_design">UI设计</a>
-- <a href="#information_community">资讯社区</a>
-- <a href="#dev_community">开发社区</a>
-- <a href="#swift_web_framework">Swift web框架</a>
+- [技术博客](#technical_blog)
+- [团队博客](#team_blog)
+- [UI设计](#UI_design)
+- [资讯社区](#information_community)
+- [开发社区](#dev_community)
+- [Swift web框架](#swift_web_framework)
 
 ## <a id="technical_blog"/>技术博客
 - [swifter 必备tips](http://swifter.tips)
