@@ -4,10 +4,10 @@ iOS学习资源收集与分享 - QQ群:82546752
 ### 点击跳转
 - <a href="#technical_blog">技术博客</a>
 - <a href="#team_blog">团队博客</a>
-- [UI设计](#UI_design)
-- [资讯社区](#information_community)
-- [开发社区](#dev_community)
-- [Swift web框架](#swift_web_framework)
+- <a href="#UI_design">UI设计</a>
+- <a href="#information_community">资讯社区</a>
+- <a href="#dev_community">开发社区</a>
+- <a href="#swift_web_framework">Swift web框架</a>
 
 ## <a id="technical_blog"/>技术博客
 - [swifter 必备tips](http://swifter.tips)
@@ -96,7 +96,7 @@ iOS学习资源收集与分享 - QQ群:82546752
 - [网易用户体验设计中心](http://uedc.163.com)
 - [百度企业产品用户体验中心](http://eux.baidu.com)
 
-## <span id="UI_design">UI设计</span>
+## <a id="UI_design"/>UI设计
 - [站酷（ZCOOL）](http://www.zcool.com.cn)
 - [优设](http://www.uisdc.com)
 - [UI中国](http://www.ui.cn)
@@ -108,7 +108,7 @@ iOS学习资源收集与分享 - QQ群:82546752
 - [ssourcee](http://ssourcee.com)
 - [Iconfont](http://www.iconfont.cn)
 
-## <span id="information_community">资讯社区</span>
+## <a id="information_community"/>资讯社区
 - [开源中国社区](https://www.oschina.net)
 - [CSDN](https://www.csdn.net)
 - [51CTO](http://www.51cto.com)
@@ -120,7 +120,8 @@ iOS学习资源收集与分享 - QQ群:82546752
 - [人人都是产品经理](http://www.woshipm.com)
 - [PMCAFF](https://www.pmcaff.com)
 
-## <span id="dev_community">开发社区</span>
+## <a id="dev_community"/>开发社区
+
 - [stackoverflow](https://stackoverflow.com)
 - [segmentfault](https://segmentfault.com)
 - [掘金](https://juejin.im)
@@ -137,7 +138,8 @@ iOS学习资源收集与分享 - QQ群:82546752
 - [泰半社区](https://www.taidous.com)
 - [泰然网](http://www.tairan.com)
 
-## <span id="swift_web_framework">Swift web框架</span>
+## <a id="swift_web_framework"/>Swift web框架
+
 - [Vapor](https://github.com/vapor/vapor)
 - [Perfect](https://github.com/PerfectlySoft/Perfect)
 - [Kitura](https://github.com/ibm-swift/kitura)
