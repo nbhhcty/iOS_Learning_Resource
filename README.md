@@ -3,13 +3,13 @@ iOS学习资源收集与分享 - QQ群:82546752
 
 ### 点击跳转
 - <a href="#technical_blog">技术博客</a>
-- [团队博客](#team_blog)
+- <a href="#team_blog">团队博客</a>
 - [UI设计](#UI_design)
 - [资讯社区](#information_community)
 - [开发社区](#dev_community)
 - [Swift web框架](#swift_web_framework)
 
-## <span id="technical_blog">技术博客</span>
+## <a id="technical_blog"/>技术博客
 - [swifter 必备tips](http://swifter.tips)
 - [里脊串的开发随笔](http://adad184.com)
 - [雷纯锋的技术博客](http://blog.leichunfeng.com)
@@ -82,7 +82,8 @@ iOS学习资源收集与分享 - QQ群:82546752
 - [不懂技术的爱迪生](https://www.jianshu.com/u/37860723842a)
 
 
-## <span id="team_blog">团队博客</span>
+## <a id="team_blog"/>团队博客
+
 - [腾讯CDC](http://cdc.tencent.com)
 - [腾讯ISUX](https://isux.tencent.com)
 - [腾讯MXD](http://mxd.tencent.com)
